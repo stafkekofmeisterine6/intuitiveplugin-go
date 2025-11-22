@@ -1,0 +1,2 @@
+# intuitiveplugin-go
+Python script
